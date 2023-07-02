@@ -1,0 +1,14 @@
+version: 0.1.0
+by: Vinic1nn
+
+* CLI that performs the function of organizing tasks
+
+Commands: 
+- add 
+- remove 
+- complete 
+- list
+
+flags: 
+--help
+--version -v
